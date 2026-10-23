@@ -1,4 +1,4 @@
-# UCI Kit Mouse (2026-2027 Ver.)
+# UCI MicroMouse (2026-2027 Ver.)
 
 This repository contains:
  - A template kit mouse project with KiCad
